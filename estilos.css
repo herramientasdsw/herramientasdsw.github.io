@@ -32,13 +32,19 @@ main {
 	padding: 20px;
 }
 
-main ul {
+/*main ul {
 	list-style: none;
 }
-
+*/
 main ul li a {
-	padding: 5px;
+	text-decoration: none;
+	color: #00f;
 }
+
+/*main ul li a:hover {
+	background-color: #ef8354;
+
+}*/
 
 footer {
 	background-color: #303030;
